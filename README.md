@@ -4,4 +4,3 @@ QAP4onestop.py - Which is the main program.
 FormatValues.py - Which is library/module used for formatting certain values in the main program. 
 policies.dat - Which is used to store user inputs and total insurance premium (pretax). 
 def.dat - Which is used to store constant variables that may change over time, this is primarily used for the policy number to increment by 1 each time a new policy is created. 
-QAP 4 - SD 11 - W24.pdf - Which is the QAP4 assignment document (for reference). 
